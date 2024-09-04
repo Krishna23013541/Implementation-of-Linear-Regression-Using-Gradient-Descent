@@ -80,15 +80,19 @@ print(f"Predicted value: {pre}")
 
 ## Output:
 DATA.HEAD()
+
 ![data_head](https://github.com/user-attachments/assets/b6115ad6-e689-427f-a45f-2ca20da1db3f)
 
 X VALUE 
+
 ![Screenshot 2024-09-04 091437](https://github.com/user-attachments/assets/be4daf85-1066-4dac-b99d-4bffc37a5da8)
 
 X1_SCALED VALUE 
+
 ![Screenshot 2024-09-04 091731](https://github.com/user-attachments/assets/04896e9e-3fe4-4e72-a10b-70baa1921bfc)
 
 PREDICTED VALUES:
+
 ![Screenshot 2024-09-04 091827](https://github.com/user-attachments/assets/8cd9e997-3c5f-4697-b0a2-ef89fb9f6dcb)
 
 ## Result:
